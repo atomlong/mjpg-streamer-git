@@ -3,7 +3,6 @@
 # Contributor: Tri Le <trile7@gmail.com>
 
 pkgname=mjpg-streamer-git
-epoch=1
 pkgver=r355.85f89a8
 pkgrel=1
 pkgdesc="Stream mjpeg frames from a webcam via http"
